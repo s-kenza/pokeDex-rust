@@ -2,9 +2,9 @@
 
 ## 📚 Contexte
 
-Dans ce projet, vous devez développer un système de gestion d’élevage de Pokémon en Rust. Le but est de modéliser des Pokémon, suivre leur évolution, gérer leur expérience, et simuler leur reproduction selon certaines règles logiques.
+Ce projet a pour but de développer un système de gestion d’élevage de Pokémon en Rust. Il faut modéliser des Pokémon, suivre leur évolution, gérer leur expérience, et simuler leur reproduction selon certaines règles logiques.
 
-Ce projet vous permet de mettre en pratique des concepts fondamentaux en Rust, tels que les structures (`struct`), les énumérations (`enum`), la gestion d’état d’un objet, et l’utilisation de collections.
+Ce projet  permet de mettre en pratique des concepts fondamentaux en Rust, tels que les structures (`struct`), les énumérations (`enum`), la gestion d’état d’un objet, et l’utilisation de collections.
 
 ---
 
