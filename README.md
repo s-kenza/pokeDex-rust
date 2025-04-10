@@ -94,15 +94,10 @@ Créer une structure `Elevage` permettant de gérer plusieurs Pokémon. Cette st
 
 ---
 
-## 📁 Structure des fichiers (exemple)
-
-├── src │ ├── main.rs │ ├── pokemon.rs │ └── elevage.rs ├── Cargo.toml └── README.md
-
-
----
 
 ## 💬 Auteur·e
 
+**Kenza SCHULER M2 IW**
 Projet réalisé dans le cadre d’un TP d’Ingénierie du Web (M2) à l’ESGI.  
 Développé avec ❤️ en Rust.
 
