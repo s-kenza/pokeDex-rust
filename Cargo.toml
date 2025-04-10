@@ -1,0 +1,8 @@
+[package]
+name = "TP6"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+prettytable-rs = "0.10.0"
+rand = "0.9.0"
