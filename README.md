@@ -98,6 +98,7 @@ Créer une structure `Elevage` permettant de gérer plusieurs Pokémon. Cette st
 ## 💬 Auteur·e
 
 **Kenza SCHULER M2 IW**
+
 Projet réalisé dans le cadre d’un TP d’Ingénierie du Web (M2) à l’ESGI.  
 Développé avec ❤️ en Rust.
 
